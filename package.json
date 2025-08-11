@@ -1,0 +1,19 @@
+{
+  "name": "shipping-cli",
+  "version": "1.0.0",
+  "description": "Calculadora de costo de envío - ejemplo CLI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "shipping",
+    "cli",
+    "logistica"
+  ],
+  "author": "Hecho con ChatGPT",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.0.0"
+  }
+}
